@@ -1,0 +1,14 @@
+# --- Python / 后端 ---
+backend/.venv/
+__pycache__/
+*.pyc
+backend/.env
+
+# --- Node / 前端 ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# --- 系统 ---
+.DS_Store
+Thumbs.db
